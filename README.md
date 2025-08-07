@@ -71,7 +71,7 @@ For **100 Movies** and **100 TV Shows**, the following details are scraped:
 
 ---
 
-**## Note : Preview will not give the full fledged code with output because notebook is too large and contains too many outputs, so it is reccommended to first save the `Web_Scraping_JustWatchWebsite.ipynb` or click on open in google colab option.
+## Note : Preview will not give the full fledged code with output because notebook is too large and contains too many outputs, so it is reccommended to first save the `Web_Scraping_JustWatchWebsite.ipynb` or click on open in google colab option.
 
 ## 🛠️ Setup Instructions
 
