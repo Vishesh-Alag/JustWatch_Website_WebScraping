@@ -57,6 +57,8 @@ For **100 Movies** and **100 TV Shows**, the following details are scraped:
 - 📍 Dataset includes clean formatting, standardized genres, and duplicate removal.
 - Analysed and Filtered Movies and TVshows exported as :
    - `filtered_movies_2023_2025_imdb7plus.csv` and `filtered_tvshows_2023_2025_imdb7plus.csv`
+ 
+- sample data files also included so that one can see the files which this python project of webscraping gives.
 
 ---
 
@@ -68,6 +70,8 @@ For **100 Movies** and **100 TV Shows**, the following details are scraped:
 - 📥 CSV export for further reporting/visualization
 
 ---
+
+**## Note : Preview will not give the full fledged code with output because notebook is too large and contains too many outputs, so it is reccommended to first save the `Web_Scraping_JustWatchWebsite.ipynb` or click on open in google colab option.
 
 ## 🛠️ Setup Instructions
 
